@@ -1,85 +1,83 @@
-<h1 align="center">Hi there 👋, I'm Oboraruvwe Ufuoma</h1>
-<h3 align="center">Fullstack Developer | React & React Native Specialist</h3>
+## 👋 Hi there, I'm Oboraruvwe Ufuoma (a.k.a. J4mesdiamond)
 
-<p align="center">
-  <a href="mailto:ufuomararuvwe@gmail.com">📧 Email</a> |
-  <a href="https://oboportfolio.netlify.app">🌍 Portfolio</a> |
-  <a href="https://github.com/J4mesdiamond">💻 GitHub</a>
-</p>
+### 🚀 Fullstack Developer | React.js & React Native Specialist
+
+I'm a passionate developer with **4+ years of experience** building delightful, scalable, and accessible web/mobile applications. My expertise lies in crafting stunning UI with **React.js**, creating smooth mobile experiences with **React Native**, and building reliable backend APIs using **Node.js**, **Express**, and **MongoDB**.
 
 ---
 
-### 🚀 About Me
+### 🛠️ Tech Stack
 
-I'm a detail-oriented and highly skilled Fullstack Developer with 4+ years of experience designing and building user-centric applications using React.js, React Native, Node.js, and MongoDB. Strongest in **front-end** development, but very comfortable handling scalable backends and integrating APIs.
-
----
-
-### 🛠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 
 ---
 
-### 🧠 My GitHub Stats (Switchable Theme)
+### 🌟 Featured Projects
 
-<div align="center">
+#### [Monad Whisper](https://monadwhisper.xyz/)
+> A community-driven hub offering insights and guides on Monad, an Ethereum-compatible Layer 1 blockchain.  
+**Tech:** React, Tailwind CSS, TypeScript
 
-| Light Mode | Dark Mode |
-|------------|-----------|
-| <img src="https://github-readme-stats.vercel.app/api?username=J4mesdiamond&show_icons=true&theme=default" alt="Ufuoma's GitHub stats" height="200"/> | <img src="https://github-readme-stats.vercel.app/api?username=J4mesdiamond&show_icons=true&theme=radical" alt="Ufuoma's GitHub stats" height="200"/> |
+#### [Sholema Clinic](https://sholemaclinics.com/)
+> Premium skincare website for aesthetic and laser procedures.  
+**Tech:** WordPress
 
-</div>
+#### [Gig Synergy System](https://gigsynergysolutions.net/)
+> Branding & marketing agency platform.  
+**Tech:** React.js, Tailwind CSS
+
+#### [Astraea](https://astraeas.netlify.app/)
+> Showcasing Africa's high-value art & collectibles. *(Still under development)*  
+**Tech:** Next.js, Tailwind CSS, REST API
+
+#### [Movie App](https://github.com/J4mesdiamond/Movie-app)
+> Search, save, and explore your favorite movies and shows. *(Still under development)*  
+**Tech:** React Native, REST API
+
+#### [Gideon AI](https://github.com/J4mesdiamond/GideonAI)
+> Voice-to-text app with integrated ChatGPT AI for fun intelligent responses. *(Still under development)*  
+**Tech:** React Native, REST API
 
 ---
 
-### 📈 Contributions & Streaks
+### 🔥 GitHub Stats (Dark Theme)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J4mesdiamond&theme=dark" alt="GitHub Streak" />
-</div>
+![J4mesdiamond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J4mesdiamond&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J4mesdiamond&layout=compact&theme=dark)
+
+### 🌈 GitHub Stats (Light Theme)
+
+![J4mesdiamond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J4mesdiamond&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J4mesdiamond&layout=compact&theme=default)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=J4mesdiamond&theme=darkhub&column=6&margin-w=15&margin-h=15" alt="trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=J4mesdiamond&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 📌 Featured Projects
+### 📫 Let's Connect
 
-| Project | Stack | Description |
-|--------|--------|-------------|
-| [🚀 OBO Portfolio](https://oboportfolio.netlify.app) | React.js, Tailwind | Personal portfolio with interactive design |
-| CI Finesser | React Native, Firebase | Mobile App with seamless UX and performance |
-| Verivo WebApp | React, Redux, Three.js | 3D-enhanced SPA using modern tools |
-| Incognito Dashboard | React, Node.js, MongoDB | Fullstack responsive admin dashboard |
+- 🌍 [Portfolio Website](https://oboportfolio.netlify.app)
+- 📧 Email: ufuomararuvwe@gmail.com
 
 ---
 
-### 📚 Education
+### 💡 Fun Facts
 
-**🎓 Advanced Diploma in Software Engineering**  
-Aptech, Lagos — *2021–2024*
-
----
-
-### 🤝 Let’s Connect
-
-- 📫 ufuomararuvwe@gmail.com  
-- 🌍 [oboportfolio.netlify.app](https://oboportfolio.netlify.app)  
-- 🧠 Always exploring new technologies like Three.js and Redux Toolkit  
-- 🔍 Passionate about frontend craftsmanship and smooth UI/UX
+- 💻 I love turning complex problems into beautiful and intuitive UIs.
+- 🧠 Lifelong learner always exploring the latest in web/mobile tech.
+- 🎯 Currently exploring advanced animation and WebGL (Three.js).
 
 ---
 
-*Thanks for visiting my GitHub! Let’s build something awesome together.* 🚀
+> *Thanks for visiting my GitHub profile! Don’t forget to star ⭐ some repos.*
